@@ -1,0 +1,9 @@
+{
+  "token": "TON_TOKEN_ICI",
+  "prefix": "-",
+  "logsChannel": "ID_DU_SALON_LOGS",
+  "raidLimit": 5,
+  "spamLimit": 6,
+  "mentionLimit": 4
+}
+ 
